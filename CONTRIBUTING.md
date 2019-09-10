@@ -1,4 +1,70 @@
-# Contributing
+# Contributing### Keybase proof
+
+I hereby claim:
+
+  * I am vilasid on github.
+  * I am vilasid (https://keybase.io/vilasid) on keybase.
+  * I have a public key ASCqMvQ3ERN6c2LBOCy3rwpgQitulJplZvonqDzVn2OYDQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aa32f43711137a7362c1382cb7af0a60422b6e949a6566fa27a83cd59f63980d0a",
+      "host": "keybase.io",
+      "kid": "0120aa32f43711137a7362c1382cb7af0a60422b6e949a6566fa27a83cd59f63980d0a",
+      "uid": "f49a1a19a8a30af9e9273dd81f249e19",
+      "username": "vilasid"
+    },
+    "merkle_root": {
+      "ctime": 1568137992,
+      "hash": "4e51cdd6989e84c3daba14dcd1aca5a9254197f5841b79a0f9440efed83f2d5eab65337bc395154beb47a87a9668e301214c93cd3e240437fe1e6cabea70e01b",
+      "hash_meta": "2e286fb3e6c10d242eda780162f7fec946345d6ee07860958c69de9af3a81b35",
+      "seqno": 6481522
+    },
+    "service": {
+      "entropy": "gM0fiQMiW1j4KG79FGtwCXp+",
+      "name": "github",
+      "username": "vilasid"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568138000,
+  "expire_in": 504576000,
+  "prev": "808333d0a4244147793db6cece083dfc4696a752cf46dbf05db7934d5fb04231",
+  "seqno": 17,
+  "tag": "signature"
+}
+```
+
+with the key [ASCqMvQ3ERN6c2LBOCy3rwpgQitulJplZvonqDzVn2OYDQo](https://keybase.io/vilasid), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqjL0NxETenNiwTgst68KYEIrbpSaZWb6J6g81Z9jmA0Kp3BheWxvYWTESpcCEcQggIMz0KQkQUd5PbbOzgg9/EaWp1LPRtvwXbeTTV+wQjHEIDyvoCS2NyC5zJE5AXTDxQTVM7KTim2wIs1zlyaeOPCDAgHCo3NpZ8RAXwhGXV1yfneZ0rqcNOelmlPnVhPRb44ElgN0J66bQwWfEqRl1y6dqRmSmIXoZEa/jxckP6fnPCqnnZSj8OZxAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJtftya+F4Q1nxmXhPyBMKEEBEa/5rA3K6Bghs7zS+yeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/vilasid
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id vilasid
+```
 
 Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
 
